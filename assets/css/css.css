@@ -1,0 +1,35 @@
+.navbar, .navbar a {
+    background-color: #0F7522!important;
+    color: white!important;
+}
+
+.navbar a:hover {
+    background-color: #095918!important;
+    color: white!important;
+}
+
+th{
+    white-space: nowrap;
+}
+
+tbody td{
+    padding-top: 10px!important;
+    padding-bottom: 10px!important;
+}
+
+td.icons{
+    white-space: nowrap;
+}
+
+textarea {
+    resize: none;
+}
+
+select#disciplineSelect option {
+    font-size: 16px!important;
+}
+
+option{
+
+    padding:5px 0;
+}
